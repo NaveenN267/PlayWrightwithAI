@@ -4,6 +4,11 @@ const MAX_COUNT = 100;        // Uppercase for constants
 var _privateVar = "secret";    // Underscore prefix for private
 let $element = document.getElementById("myDiv");  // Dollar sign for DOM elements
 
+let className = "name";
+const MY_COUNT = 100;
+let _private = "secreate";
+let $element = document.getElementById("ID");
+
 // Function names
 function calculateTotal(price, tax) {  // Camel case for functions
     return price + tax;
