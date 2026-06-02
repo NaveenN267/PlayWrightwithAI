@@ -3,7 +3,7 @@ num.push(5, 8, 9)
 console.log(num);
 
 //Start deletecount ...itemstoAdd
-num.splice(5, 1);// here '5' one means index number And '1' meands delete the number
+num.splice(5, 1);// here '5' means index number And '1' meands delete the number
 console.log(num)
 
 num.splice(2, 0, 7) // here '0' means don't delete but add the value at index
