@@ -45,6 +45,19 @@ PlayWrightwithAI/
 │   └── 47_IO_If_else.js
 ├── chapter_07_Switch/              # Switch statements
 │   └── 48_swithc.js
+├── chapter_08_Loops/               # Looping constructs and examples
+│   ├── 49_for_loop.js
+│   ├── 50_While_loop.js
+│   ├── 51_do_while.js
+│   └── 52_IQ.js
+├── chapter_09_Arrays/              # Array methods and examples
+│   ├── 53_Arrays.js
+│   ├── 54_AccessAndModifiy_Arrays.js
+│   ├── 55_AddAndRemove.js
+│   ├── 56_Searching.js
+│   └── 57_Iterate.js
+├── chapter_10_Functions/           # Functions and arrow functions
+│   └── 66_Arrow_Function.js
 └── README.md                       # This file
 ```
 
