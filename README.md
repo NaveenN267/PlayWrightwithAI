@@ -55,9 +55,31 @@ PlayWrightwithAI/
 │   ├── 54_AccessAndModifiy_Arrays.js
 │   ├── 55_AddAndRemove.js
 │   ├── 56_Searching.js
-│   └── 57_Iterate.js
+│   ├── 57_Iterate.js
+│   ├── 58_Transform_Array.js
+│   ├── 59_Array_Sorting.js
+│   └── 60_Array_Concat.js
 ├── chapter_10_Functions/           # Functions and arrow functions
-│   └── 66_Arrow_Function.js
+│   ├── 61_Type1_Fn_Basic.js
+│   ├── 62_Type2_Fn_withParam_NoRetun.js
+│   ├── 63_Type3_Fn_NoParam_withRetun.js
+│   ├── 64_Type4_Fn_withParam_withRetun.js
+│   ├── 65_Fn_Expression.js
+│   ├── 66_Arrow_Function.js
+│   ├── 67_IIFE_Function.js
+│   ├── 68_Default_Param.js
+│   ├── 69_Rest_Of_Param.js
+│   ├── 70_IQ.js
+│   ├── 71_Spreed_IQ.js
+│   ├── 72_Higher_Order_Fn.js
+│   └── 73_Pure_Impure_Fn.js
+├── chapter_11_Strings/             # String methods and operations
+│   ├── 74_Strings.js
+│   ├── 75_String_Properties.js
+│   ├── 76_Search_Check.js
+│   ├── 77_Sub_string.js
+│   ├── 78_String_Transform.js
+│   └── 79_String_Conversion.js
 └── README.md                       # This file
 ```
 
@@ -93,8 +115,12 @@ PlayWrightwithAI/
 3. **Chapter 3: Identifiers & Literals** - Naming rules and literals
 4. **Chapter 4: Variables** - `var`, `let`, template literals, and practice
 5. **Chapter 5: Operators** - Arithmetic, comparison, logical, and ternary operators
-6. **Chapter 6: IF/Else** - Conditional logic
+6. **Chapter 6: IF/Else** - Conditional logic and branching
 7. **Chapter 7: Switch** - Switch-case control flow
+8. **Chapter 8: Loops** - `for`, `while`, `do-while` loop constructs
+9. **Chapter 9: Arrays** - Array creation, manipulation, searching, iteration, and transformations
+10. **Chapter 10: Functions** - Function types, arrow functions, IIFE, default parameters, rest parameters, and higher-order functions
+11. **Chapter 11: Strings** - String creation, properties, searching, substring operations, transformations, and conversions
 
 ## 🛠️ Usage
 
@@ -114,11 +140,22 @@ npx playwright test
 
 ## 📋 Topics Covered
 
-- JavaScript fundamentals
-- Variables and template literals
-- Operators and expressions
-- Conditional statements
-- Switch-case statements
+- JavaScript fundamentals and basics
+- Identifiers, literals, and naming conventions
+- Variable declarations (`var`, `let`)
+- Hoisting and scope
+- Template literals and string operations
+- Operators (arithmetic, comparison, logical, assignment, ternary, typeof)
+- Conditional statements (if/else, switch-case)
+- Loop constructs (for, while, do-while)
+- Arrays and array methods (push, pop, slice, map, filter, etc.)
+- Array iteration and transformations
+- Functions (declarations, expressions, arrow functions, IIFE)
+- Higher-order functions and pure/impure functions
+- Rest parameters and spread operator
+- String methods and operations
+- String searching and substring extraction
+- String transformations and type conversions
 - VS Code productivity shortcuts
 - Playwright automation basics
 
