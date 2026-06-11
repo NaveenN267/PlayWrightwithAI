@@ -6,7 +6,7 @@ console.log(name);
 console.log(age);
 
 //ReName variables
-const det = { name: "Namala", city: "Hyderabad", age: 30, are: "vernkat" };
+const det = { name: "Namala", city: "Hyderabad", age: 30, are: "venkatsai" };
 
 const { name: name1, city: Location } = det;
 console.log(name1);
