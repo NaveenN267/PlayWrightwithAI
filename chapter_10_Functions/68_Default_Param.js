@@ -7,6 +7,6 @@ details("Namala", 30, "Software")// we can give dynamic values, it will replace 
 function namala(name, exp, company) {
     return `${name} and working exp is ${exp} in ${company}`;
 }
-namala("Naveen", 7, "aspire");// it won't print untill assin
+namala("Naveen", 7, "aspire");// it won't print untill assign
 const re = namala("Naveen", 7, "aspire");
 console.log(re);

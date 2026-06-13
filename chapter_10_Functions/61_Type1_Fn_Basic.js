@@ -6,3 +6,5 @@ function name() {    // during the define time it's called as 'parameter'
 
 //calling the functions
 name(); //during the calling time it's called as 'argument'
+
+
