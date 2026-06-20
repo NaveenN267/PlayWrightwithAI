@@ -3,7 +3,7 @@ let checkDB = Promise.resolve("DB Ok");
 let checkCache = Promise.resolve("Cache OK");
 
 Promise.all([checkAuth, checkDB, checkCache]).then(function (results) {
-    console.log("All the checks are fine!");
+    console.log("All the checks are fine!");// here it's printing when all the values is true
 })
 
 Promise.all([
@@ -13,7 +13,7 @@ Promise.all([
 ]).then(function (r) {
     console.log(r);
 }).catch(function (error) {
-    console.log("Failed:", error);
+    console.log("Failed:", error); // hereit is printing ever though one case is failed
 })
 
 // Promise.allSettled([
