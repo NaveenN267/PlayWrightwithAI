@@ -5,15 +5,15 @@ A practical learning repository for mastering Playwright automation testing with
 ## 📚 Project Structure
 
 ```
-PlayWrightwithAI/
+PlayWright_Project/
 ├── chapter_01_Basics/              # Basic JavaScript and Playwright concepts
-│   ├── 01_Basics.js               # Intro to JavaScript/Playwright basics
-│   └── 02_JS_Commands.js          # JavaScript commands and examples
+│   ├── 01_Basics.js
+│   └── 02_JS_Commands.js
 ├── chapter_02_Javascript_Concepts/ # Core JavaScript concept practice
-│   └── 05_JS_Basics               # JavaScript fundamentals
+│   └── 05_JS_Basics
 ├── chapter_03_Identifier_Literals/ # Identifiers and literals
-│   ├── 06_JS_Identifiers_Rules.js # Naming rules and examples
-│   └── 07_Keyborardshoutcuts_VSCode.md # VS Code shortcuts reference
+│   ├── 06_JS_Identifiers_Rules.js
+│   └── 07_Keyborardshoutcuts_VSCode.md
 ├── chapter_04_Variables/           # Variable declarations and practice
 │   ├── 08_Var_Varibale.js
 │   ├── 09_Fucntion.js
@@ -80,7 +80,32 @@ PlayWrightwithAI/
 │   ├── 77_Sub_string.js
 │   ├── 78_String_Transform.js
 │   └── 79_String_Conversion.js
-└── README.md                       # This file
+├── chapter_12_objects/             # Objects and real-world examples
+│   ├── 80_Objects.js
+│   ├── 81_Objects_Creation.js
+│   ├── 82_Object_Real.js
+│   ├── 83_Object_IQ.js
+│   ├── 84_Objects_destructring.js
+│   └── 85_Object_IQ2.js
+├── chapter_13_MultiD_Arrays/       # Multidimensional arrays and patterns
+│   ├── 86_Arrays.js
+│   ├── 87_Array_Real.js
+│   └── 88_IQ_Patrans.js
+├── chapter_14_Callback/            # Callback functions and async basics
+│   ├── 89_callback.js
+│   ├── 90_SyncAndAsync.js
+│   └── 91_CallBack_Param.js
+├── chapter_15_Promises/            # Promises and async handling
+│   ├── 92_Promises.js
+│   └── 93_Promiese_Real.js
+├── chapter_16_AsyncAndAwait/       # Async/await examples
+├── chapter_17_Playwright_Basics/    # Playwright setup and tests
+│   ├── package.json
+│   ├── playwright.config.ts
+│   └── tests/example.spec.ts
+└── chapter_18_Export_Import/       # JavaScript module exports and imports
+    ├── Utils.js
+    └── Import_Export/Import.js
 ```
 
 ## 🚀 Getting Started
@@ -121,6 +146,13 @@ PlayWrightwithAI/
 9. **Chapter 9: Arrays** - Array creation, manipulation, searching, iteration, and transformations
 10. **Chapter 10: Functions** - Function types, arrow functions, IIFE, default parameters, rest parameters, and higher-order functions
 11. **Chapter 11: Strings** - String creation, properties, searching, substring operations, transformations, and conversions
+12. **Chapter 12: Objects** - Object creation, properties, methods, and destructuring
+13. **Chapter 13: Multidimensional Arrays** - Nested arrays and pattern problems
+14. **Chapter 14: Callbacks** - Callback functions, sync vs async behavior, and callback parameters
+15. **Chapter 15: Promises** - Promise creation, resolution, and async error handling
+16. **Chapter 16: Async/Await** - Async/await syntax and modern async flows
+17. **Chapter 17: Playwright Basics** - Browser automation test examples and Playwright setup
+18. **Chapter 18: Export/Import** - JavaScript module exports, default exports, and imports
 
 ## 🛠️ Usage
 
