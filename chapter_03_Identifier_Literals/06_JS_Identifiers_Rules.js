@@ -42,3 +42,5 @@ let has_permission = true;
 // let 123abc = "invalid";     // Starts with digit
 // let my-var = "invalid";     // Contains hyphen
 // let if = "invalid";         // Reserved keyword
+
+console.log(typeof (null));

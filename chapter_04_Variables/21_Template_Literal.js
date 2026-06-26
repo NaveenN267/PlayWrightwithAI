@@ -14,4 +14,5 @@ console.log(fullName);
 
 const url = "https://www.sdetclub.com/c/playwright-2x?topics=485702"
 let urlName = "Naveen";
-let 
+let changeURL = `https://www.${urlName}.com/c/playwright-2x?topics=485702`
+console.log(changeURL);
